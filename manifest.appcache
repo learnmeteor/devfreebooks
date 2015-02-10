@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-06T11:35:52.206Z
+# rev 1 - 2015-02-10T11:31:17.654Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -9,6 +9,7 @@ http://devfreebooks.org/angularjs/index.html
 http://devfreebooks.org/api/angularjs.json
 http://devfreebooks.org/api/firefoxos.json
 http://devfreebooks.org/api/go.json
+http://devfreebooks.org/api/java.json
 http://devfreebooks.org/api/javascript.json
 http://devfreebooks.org/api/menu.json
 http://devfreebooks.org/api/meteor.json
@@ -34,6 +35,13 @@ http://devfreebooks.org/assets/images/firefoxos.jpg
 http://devfreebooks.org/assets/images/go.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/human-javascript.jpg
+http://devfreebooks.org/assets/images/java-estrutura-dados.jpg
+http://devfreebooks.org/assets/images/java-language-specification-8.jpg
+http://devfreebooks.org/assets/images/java-orientacao-objetos.jpg
+http://devfreebooks.org/assets/images/java-testes-jsf-web-services-design-patterns.jpg
+http://devfreebooks.org/assets/images/java-virtual-machine-specification-8.jpg
+http://devfreebooks.org/assets/images/java-web.jpg
+http://devfreebooks.org/assets/images/java.jpg
 http://devfreebooks.org/assets/images/javascript-and-node-fundamentals.jpg
 http://devfreebooks.org/assets/images/javascript-succinctly.jpg
 http://devfreebooks.org/assets/images/javascript.jpg
@@ -69,6 +77,7 @@ http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/go/index.html
 http://devfreebooks.org/index.html
+http://devfreebooks.org/java/index.html
 http://devfreebooks.org/javascript/index.html
 http://devfreebooks.org/meteor/index.html
 http://devfreebooks.org/nodejs/index.html
