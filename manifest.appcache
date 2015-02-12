@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-12T11:33:51.286Z
+# rev 1 - 2015-02-12T21:24:53.661Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -12,6 +12,10 @@ http://devfreebooks.org/assets/font/icon.eot
 http://devfreebooks.org/assets/font/icon.svg
 http://devfreebooks.org/assets/font/icon.ttf
 http://devfreebooks.org/assets/font/icon.woff
+http://devfreebooks.org/assets/font/opensans.eot
+http://devfreebooks.org/assets/font/opensans.svg
+http://devfreebooks.org/assets/font/opensans.ttf
+http://devfreebooks.org/assets/font/opensans.woff
 http://devfreebooks.org/assets/images/an-introduction-to-programming-in-go.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
@@ -62,8 +66,6 @@ http://devfreebooks.org/assets/js/application.gz.js
 http://devfreebooks.org/assets/js/application.js
 http://devfreebooks.org/assets/js/html5shiv.gz.js
 http://devfreebooks.org/assets/js/html5shiv.min.js
-http://devfreebooks.org/assets/js/main.gz.js
-http://devfreebooks.org/assets/js/main.js
 http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/go/index.html
@@ -74,6 +76,7 @@ http://devfreebooks.org/meteor/index.html
 http://devfreebooks.org/nodejs/index.html
 http://devfreebooks.org/python/index.html
 http://devfreebooks.org/robots.txt
+http://devfreebooks.org/rss.xml
 
 NETWORK:
 *
