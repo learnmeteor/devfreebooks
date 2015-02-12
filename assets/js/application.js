@@ -1,0 +1,1 @@
+!function(){var a=document.querySelector(".navbar-toggle"),b=document.querySelector(".navbar-collapse");a.addEventListener("click",function(){b.classList.toggle("hidden-xs")})}();

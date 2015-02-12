@@ -1,20 +1,11 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-11T18:42:32.364Z
+# rev 1 - 2015-02-12T11:33:51.286Z
 
 CACHE:
 http://devfreebooks.org/404.html
 http://devfreebooks.org/CNAME
 http://devfreebooks.org/about/index.html
 http://devfreebooks.org/angularjs/index.html
-http://devfreebooks.org/api/angularjs.json
-http://devfreebooks.org/api/firefoxos.json
-http://devfreebooks.org/api/go.json
-http://devfreebooks.org/api/java.json
-http://devfreebooks.org/api/javascript.json
-http://devfreebooks.org/api/menu.json
-http://devfreebooks.org/api/meteor.json
-http://devfreebooks.org/api/nodejs.json
-http://devfreebooks.org/api/python.json
 http://devfreebooks.org/assets/css/main.css
 http://devfreebooks.org/assets/css/main.gz.css
 http://devfreebooks.org/assets/font/icon.eot
@@ -67,12 +58,12 @@ http://devfreebooks.org/assets/images/your-first-app-nodejs.jpg
 http://devfreebooks.org/assets/images/your-first-meteor-application.jpg
 http://devfreebooks.org/assets/js/aightjs.gz.js
 http://devfreebooks.org/assets/js/aightjs.min.js
+http://devfreebooks.org/assets/js/application.gz.js
+http://devfreebooks.org/assets/js/application.js
 http://devfreebooks.org/assets/js/html5shiv.gz.js
 http://devfreebooks.org/assets/js/html5shiv.min.js
 http://devfreebooks.org/assets/js/main.gz.js
 http://devfreebooks.org/assets/js/main.js
-http://devfreebooks.org/assets/templates/menu.hbs
-http://devfreebooks.org/assets/templates/thumb_books.hbs
 http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/go/index.html
