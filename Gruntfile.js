@@ -23,6 +23,16 @@ module.exports = function(grunt) {
       }
     },
 
+    // Execute  ======================================
+    execute: {
+      target: {
+        options: {
+          module: true
+        },
+        src: ["feed.js"]
+      }
+    },
+
     // ENV vars ======================================
     env: {
       dev : {
@@ -111,13 +121,14 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-harp");
   grunt.loadNpmTasks("grunt-env");
   grunt.loadNpmTasks("grunt-appcache");
+  grunt.loadNpmTasks("grunt-execute");
   grunt.loadNpmTasks("grunt-contrib-compress");
   grunt.loadNpmTasks("grunt-contrib-cssmin");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-contrib-concat");
   grunt.loadNpmTasks("grunt-contrib-clean");
   
-  grunt.registerTask("default",["clean", "env:dev", "concat", "harp:dev"]);
+  grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache"/*, "gh-pages"*/]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
 };

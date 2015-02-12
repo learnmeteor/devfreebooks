@@ -16,6 +16,7 @@
         "image": "java-language-specification-8.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150210",
         "url": "http://docs.oracle.com/javase/specs/jls/se8/jls8.pdf"
       },
       {
@@ -27,6 +28,7 @@
         "image": "java-virtual-machine-specification-8.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150210",
         "url": "http://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf"
       },
       {
@@ -38,6 +40,7 @@
         "image": "java-orientacao-objetos.jpg",
         "lang": "PT-BR",
         "publish": true,
+        "published_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos"
       },
       {
@@ -49,6 +52,7 @@
         "image": "java-web.jpg",
         "lang": "PT-BR",
         "publish": true,
+        "published_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-web"
       },
       {
@@ -60,6 +64,7 @@
         "image": "java-testes-jsf-web-services-design-patterns.jpg",
         "lang": "PT-BR",
         "publish": true,
+        "published_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns"
       },
       {
@@ -71,6 +76,7 @@
         "image": "java-estrutura-dados.jpg",
         "lang": "PT-BR",
         "publish": true,
+        "published_at": "20150210",
         "url": "https://www.caelum.com.br/apostila-java-estrutura-dados"
       }
     ]

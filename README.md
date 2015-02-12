@@ -16,7 +16,7 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
   "subtitle": "Platform name",
   "about": "Platform description",
   "site": "url of the official platform site", 
-  "image": "platform-logo.jpg",
+  "image": "platform-logo.jpg", // Platform image is required
   "category": "frameworks", // frameworks, languages or devtools
   "books": [
     {
@@ -25,11 +25,11 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
       "author": "Author name or Publisher name",
       "pages": 100, // Number of pages
       "year": 2014, // Publish year
-      "image": "cover.jpg", // Book cover image
+      "image": "cover.jpg", // Book cover image (optional)
       "lang": "EN", // book language. Ex.: EN, PT-BR, ES
       "publish": true, // Publish to devfreebooks site
       "url": "book's url to download",
-      "featured": true // Is a featured book? 
+      "published_at": "20150202" // Current publish date in format YYYYMMDD
     }
   ]
 },
@@ -58,7 +58,7 @@ Look this example (`public/nodejs/_data.json`):
         "lang": "EN",
         "publish": true,
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs",
-        "featured": true
+        "published_at": "20150202"
       }
     ]
   }

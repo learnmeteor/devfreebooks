@@ -16,6 +16,7 @@
         "image": "human-javascript.jpg", 
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "http://read.humanjavascript.com/ch01-introduction.html"
       },
       {
@@ -27,6 +28,7 @@
         "image": "understanding-ecmascript-6.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "https://leanpub.com/understandinges6/read"
       },
       {
@@ -37,6 +39,7 @@
         "year": 2013, 
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "http://addyosmani.com/writing-modular-js"
       },
       {
@@ -47,6 +50,7 @@
         "year": 2012, 
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "http://addyosmani.com/largescalejavascript/"
       },
       {
@@ -58,6 +62,7 @@
         "image": "learning-javascript-design-patterns.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "http://addyosmani.com/resources/essentialjsdesignpatterns/book/"
       },
       {
@@ -69,6 +74,7 @@
         "image": "ecmascript-language-specification.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf"
       },
       {
@@ -80,6 +86,7 @@
         "image": "javascript-succinctly.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150202",
         "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript"
       }
     ]

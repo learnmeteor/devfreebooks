@@ -16,6 +16,7 @@
         "image": "angularjs-succinctly.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "https://www.syncfusion.com/resources/techportal/ebooks/angularjs"
       },
       {
@@ -27,6 +28,7 @@
         "image": "angularjs-in-60-minutes.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
       },
       {
@@ -38,6 +40,7 @@
         "image": "practical-angularjs.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "https://leanpub.com/Practical_AngularJS/read"
       },
       {
@@ -49,6 +52,7 @@
         "image": "recipes-with-angularjs.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "https://leanpub.com/recipes-with-angular-js/read"
       }
     ]

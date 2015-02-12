@@ -16,6 +16,7 @@
         "image": "python-practice-book.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150206",
         "url": "http://anandology.com/python-practice-book/index.html"
       },
       {
@@ -27,6 +28,7 @@
         "image": "learn-python-the-hard-way.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150206",
         "url": "http://learnpythonthehardway.org/book/"
       }
     ]

@@ -16,6 +16,7 @@
         "image": "your-first-meteor-application.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150204",
         "url": "http://meteortips.com/book"
       },
       {
@@ -27,6 +28,7 @@
         "image": "pro-meteor-meteor-internals-scaling-and-more.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150204",
         "url": "https://meteorhacks.com/ebook/pro-meteor.html"
       },
       {
@@ -38,6 +40,7 @@
         "image": "lets-create-a-realtime-blackboard-with-meteor-streams.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150204",
         "url": "https://meteorhacks.com/realtime-blackboard.html"
       }
     ]

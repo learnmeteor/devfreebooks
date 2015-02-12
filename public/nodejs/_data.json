@@ -16,7 +16,7 @@
         "image": "javascript-and-node-fundamentals.jpg",
         "lang": "EN",
         "publish": true,
-        "featured": true,
+        "published_at": "20150131",
         "url": "https://leanpub.com/jsfun?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
       {
@@ -28,6 +28,7 @@
         "image": "your-first-app-nodejs.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "https://leanpub.com/yfa-nodejs?a=2hxrOg_7DAAAx2pWvoaFpT"
       },
       {
@@ -39,6 +40,7 @@
         "image": "node-express-and-libsass-project-from-scratch-workshop.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/"
       },
       {
@@ -50,6 +52,7 @@
         "image": "npm-recipes.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "https://leanpub.com/npm-recipes"
       },
       {
@@ -61,6 +64,7 @@
         "image": "mastering-nodejs.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://tj.github.io/masteringnode/"
       },
       {
@@ -72,6 +76,7 @@
         "image": "nodejs-succinctly.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://www.syncfusion.com/resources/techportal/ebooks/nodejs"
       },
       {
@@ -83,6 +88,7 @@
         "image": "pro-nodejs-for-developers.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://allebook.biz/pro-node-js-for-developers"
       },
       {
@@ -94,6 +100,7 @@
         "image": "heroku-nodejs.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://samypesse.gitbooks.io/heroku-node/"
       },
       {
@@ -104,6 +111,7 @@
         "year": 2012, 
         "lang": "EN",
         "publish": true,
+        "published_at": "20150131",
         "url": "http://book.mixu.net/node/index.html"
       }
     ]

@@ -16,6 +16,7 @@
         "image": "quick-guide-for-firefox-os-app-development.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150205",
         "url": "https://leanpub.com/quickguidefirefoxosdevelopment"
       },
       {
@@ -27,6 +28,7 @@
         "image": "building-games-for-firefox-os.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150205",
         "url": "https://leanpub.com/buildinggamesforfirefoxos/"
       }
     ]

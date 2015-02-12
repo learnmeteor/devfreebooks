@@ -16,6 +16,7 @@
         "image": "the-little-go-book.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150201",
         "url": "http://openmymind.net/The-Little-Go-Book"
       },
       {
@@ -27,6 +28,7 @@
         "image": "building-web-apps-with-go.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150201",
         "url": "http://codegangsta.gitbooks.io/building-web-apps-with-go/"
       },
       {
@@ -38,6 +40,7 @@
         "image": "an-introduction-to-programming-in-go.jpg",
         "lang": "EN",
         "publish": true,
+        "published_at": "20150201",
         "url": "http://www.golang-book.com"
       }
     ]
