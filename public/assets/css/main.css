@@ -161,7 +161,7 @@ body{
   position: fixed;
   left: 0px;
   bottom: 0px;
-  height: 65px;
+  height: 70px;
   width: 100%;
   background: transparent;
 }
@@ -170,8 +170,8 @@ body{
 }
 .social-footer .btn-lg {
   padding: 16px;
-  font-size: 25px;
-  height: 65px;
+  font-size: 26px;
+  height: 70px;
 }
 .anchor {
   display: block;
