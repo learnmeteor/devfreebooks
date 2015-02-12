@@ -10,7 +10,8 @@ section.row
       - var book_id = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
       - var book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
       - var book_image = image_path + (book.image ? book.image : image)
-      section.col-xs-12.col-sm-4.col-md-4(id="#{book_id}")
+      section.col-xs-12.col-sm-4.col-md-4
+        div(class="anchor" id="#{book_id}")
         div(class="thumbnail#{!!book.featured ? ' thumbnail-featured' : ''}")
           a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
             img.img-responsive.img-rounded(src="#{book_image}" width="250" height="120")

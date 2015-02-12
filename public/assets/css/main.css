@@ -58,7 +58,50 @@ body{font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;color:#
  * Custom CSS for DevFreeBooks 
  *
  */
-html{background:#434a54;}body{background:#FEFEFE;}.footer-about{text-align:center;color:#FFF;}.header{margin-bottom:-15px;}.book-title{height:25px;}.book-description{height:175px;}.book-metadata{text-align:right;font-size:.85em;}.center{text-align:center;}.navbar-brand{padding:8px 15px;}.jumbotron{margin:50px 0;}.jumbotron .jumbotron-contents{padding:20px 20px 5px;}.thumbnail-featured{background-color: #FFD;}
+html{
+  background:#434a54;
+}
+body{
+  background:#FEFEFE;
+}
+.footer-about{
+  text-align:center;
+  color:#FFF;
+}
+.header{
+  margin-bottom:3.5em;
+}
+.book-title{
+  height:25px;
+}
+.book-description{
+  height:175px;
+}
+.book-metadata{
+  text-align:right;
+  font-size:.85em;
+}
+.center{
+  text-align:center;
+}
+.navbar-brand{
+  padding:8px 15px;
+}
+.jumbotron{
+  margin:50px 0;
+}
+.jumbotron .jumbotron-contents{
+  padding:20px 20px 5px;
+}
+.thumbnail-featured{
+  background-color: #FFD;
+}
+.anchor {
+  display: block;
+  height: 75px;
+  margin-top: -75px;
+  visibility: hidden;
+}
 /*
  *
  * Custom FontIcons
