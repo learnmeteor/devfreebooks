@@ -14,7 +14,7 @@ section.row
         div(class="anchor" id="#{book_id}")
         div(class="thumbnail#{!!book.featured ? ' thumbnail-featured' : ''}")
           a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
-            img.img-responsive.img-rounded(src="#{book_image}" width="250" height="120")
+            img.img-responsive.img-rounded(data-async="#{book_image}" src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==")
           div.caption
             h3.book-title #{book.title}
             p.book-description #{book.description}

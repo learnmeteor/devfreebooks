@@ -6,7 +6,7 @@ header.header
         span.icon-bar
         span.icon-bar
       a.navbar-brand(href="#{root_url[environment]}") 
-        img(src="#{root_url[environment]}assets/images/devfreebooks.png" width="228" height="35" alt="DevFreeBooks - #{description}" title="DevFreeBooks - #{description}")
+        img(data-async="#{root_url[environment]}assets/images/devfreebooks.png" width="228" height="35" alt="DevFreeBooks - #{description}" title="DevFreeBooks - #{description}")
     div.navbar-right.navbar-collapse.hidden-xs
       ul.nav.navbar-nav
         li
@@ -18,7 +18,7 @@ header.header
         li
           a.navbar-link(href="#{root_url[environment]}about") <i class="icon-child"></i>&nbsp;About
         li.hidden-md.hidden-lg.divider
-        li.hidden-md.hidden-lg.dropdown-header <b>Please share this project!</b>
+        li.hidden-md.hidden-lg.dropdown-header <b>Please share this project :)</b>
         li.hidden-md.hidden-lg
           a(target="_blank" rel="nofollow" href="https://www.facebook.com/sharer.php?u=#{encodeURIComponent(root_url[environment])}&t=#{encodeURIComponent(title)}") &nbsp;&nbsp;&nbsp;<i class="icon-facebook"></i>&nbsp;Facebook
         li.hidden-md.hidden-lg

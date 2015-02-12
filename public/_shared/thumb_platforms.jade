@@ -11,7 +11,7 @@ section.row-fluid.clearfix
       div.col-xs-12.col-sm-4.col-md-3
         div.thumbnail
           a(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")
-            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{platform_data.image}")
-        div.caption
-          p.center
-            a.btn.btn-block.btn-success(href="#{platform_data.url}" title="#{platform_data.about}")<i class="icon-book"></i>&nbsp;#{platform_data.subtitle} (#{platform_data.books.length} books)
+            img.img-responsive.img-rounded(data-async="#{root_url[environment]}assets/images/#{platform_data.image}" src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==")
+          div.caption
+            p.center
+              a.btn.btn-block.btn-success(href="#{platform_data.url}" title="#{platform_data.about}")<i class="icon-book"></i>&nbsp;#{platform_data.subtitle} (#{platform_data.books.length} books)

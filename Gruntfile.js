@@ -16,7 +16,8 @@ module.exports = function(grunt) {
       },
       main: {
         src: [
-          "public/assets/js/main.js"
+          "public/assets/js/_async-img.js",
+          "public/assets/js/_main.js"
         ],
         dest: "public/assets/js/application.js"
       }
@@ -118,5 +119,5 @@ module.exports = function(grunt) {
   
   grunt.registerTask("default",["clean", "env:dev", "concat", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache"/*, "gh-pages"*/]);
 };
