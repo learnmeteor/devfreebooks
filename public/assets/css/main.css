@@ -157,6 +157,22 @@ body{
 .thumbnail-featured{
   background-color: #FFD;
 }
+.social-footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 75px;
+  width: 100%;
+  background: transparent;
+}
+.social-footer .btn {
+  border-radius: 0;
+}
+.social-footer .btn-lg {
+  padding: 18px;
+  font-size: 28px;
+  height: 75px;
+}
 .anchor {
   display: block;
   height: 75px;
