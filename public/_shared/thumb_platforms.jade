@@ -1,0 +1,17 @@
+- var total_books = 0
+each platform in platforms
+  - total_books += public[platform]._data.index.books.length
+section.row-fluid.clearfix
+  p.center
+    strong #{platforms.length}</strong> platforms and <strong>#{total_books}</strong> books
+section.row-fluid.clearfix
+  div.row-fluid
+    each platform in platforms
+      - var platform_data = public[platform]._data.index
+      div.col-xs-12.col-sm-4.col-md-3
+        div.thumbnail
+          a(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")
+            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{platform_data.image}")
+        div.caption
+          p.center
+            a.btn.btn-block.btn-success(href="#{platform_data.url}" title="#{platform_data.about}")<i class="icon-book"></i>&nbsp;#{platform_data.subtitle} (#{platform_data.books.length} books)

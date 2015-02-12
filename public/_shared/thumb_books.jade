@@ -2,8 +2,20 @@
 h3 #{subtitle}
 section
   p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
-hr
 h4 Books
-section.row(data-dfb-url="#{root_url[environment]}api/#{name}.json", data-dfb-template="thumb_books")
-  div.result-status
-    h3 Loading...
+section.row
+  - var image_path = root_url[environment] + "assets/images/"
+  each book in books
+    if !!book.publish
+      - var book_id = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase()
+      - var book_url = book.url + (book.url.indexOf("?") >= 0 ? "&" : "?") + utm;
+      - var book_image = image_path + (book.image ? book.image : image)
+      section.col-xs-12.col-sm-4.col-md-4(id="#{book_id}")
+        div(class="thumbnail#{!!book.featured ? ' thumbnail-featured' : ''}")
+          a(href="#{book_url}" target="_blank" title="#{book.title}" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');")
+            img.img-responsive.img-rounded(src="#{book_image}" width="250" height="120")
+          div.caption
+            h3.book-title #{book.title}
+            p.book-description #{book.description}
+            p.book-metadata Author: #{book.author}<br>Year: <span class="label label-success">#{book.year}</span> | Lang.: <span class="label label-success">#{book.lang.toUpperCase()}</span> | Pages: <span class="label label-success">#{book.pages}</span>
+            p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="icon-play"></i>&nbsp;Read</a>
