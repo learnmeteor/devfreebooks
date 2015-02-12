@@ -19,4 +19,4 @@ section.row
             h3.book-title #{book.title}
             p.book-description #{book.description}
             p.book-metadata Author: #{book.author}<br>Year: <span class="label label-success">#{book.year}</span> | Lang.: <span class="label label-success">#{book.lang.toUpperCase()}</span> | Pages: <span class="label label-success">#{book.pages}</span>
-            p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="icon-play"></i>&nbsp;Read</a>
+            p <a class="btn btn-success btn-block" href="#{book_url}" target="_blank" role="button" onclick="ga('send', 'event', 'Books', '#{subtitle}', '#{book.title}');"><i class="icon-eye"></i>&nbsp;Read</a>
