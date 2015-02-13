@@ -8,7 +8,7 @@ html(lang="en", manifest="#{root_url[environment]}manifest.appcache", xmlns="htt
       != yield
     != partial("_shared/footer")
     != partial("_shared/social_footer")
+    script(src="http://carnage1301.spider.ad?id=35191")
     script(src="#{root_url[environment]}assets/js/application.js")
     if environment == "production"
       != partial("_shared/google_analytics")
-      script(src="http://carnage1301.spider.ad?id=35191" async="true" defer="true")
