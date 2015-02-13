@@ -52,23 +52,24 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
   line-height: 1em;
   margin-left: .2em;
 }
- 
-.icon-mail:before { content: '\e800'; } /* '' */
-.icon-star:before { content: '\e801'; } /* '' */
-.icon-child:before { content: '\e802'; } /* '' */
-.icon-thumbs-up:before { content: '\e803'; } /* '' */
-.icon-book:before { content: '\e804'; } /* '' */
-.icon-smile:before { content: '\e805'; } /* '' */
-.icon-twitter:before { content: '\e806'; } /* '' */
-.icon-facebook:before { content: '\e807'; } /* '' */
-.icon-github:before { content: '\e808'; } /* '' */
-.icon-gplus:before { content: '\e809'; } /* '' */
-.icon-linkedin:before { content: '\e80a'; } /* '' */
-.icon-play:before { content: '\e80b'; } /* '' */
-.icon-rss:before { content: '\e80c'; } /* '' */
-.icon-eye:before { content: '\e80d'; } /* '' */
-.icon-user:before { content: '\e80e'; } /* '' */
-.icon-plus:before { content: '\e80f'; } /* '' */
+
+.icon-mail:before { content: '\e800'; }
+.icon-star:before { content: '\e801'; }
+.icon-child:before { content: '\e802'; }
+.icon-thumbs-up:before { content: '\e803'; }
+.icon-book:before { content: '\e804'; }
+.icon-smile:before { content: '\e805'; }
+.icon-twitter:before { content: '\e806'; }
+.icon-facebook:before { content: '\e807'; }
+.icon-github:before { content: '\e808'; }
+.icon-gplus:before { content: '\e809'; }
+.icon-linkedin:before { content: '\e80a'; }
+.icon-play:before { content: '\e80b'; }
+.icon-rss:before { content: '\e80c'; }
+.icon-eye:before { content: '\e80d'; }
+.icon-user:before { content: '\e80e'; }
+.icon-plus:before { content: '\e80f'; }
+.icon-video:before { content: '\e810'; }
 
 /*
  * bootflat 2.0.2
