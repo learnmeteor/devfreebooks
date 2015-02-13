@@ -156,6 +156,11 @@ body{
 }
 .thumbnail-featured{
   background-color: #FFD;
+  -moz-transition: background-color 2.0s ease;
+  -webkit-transition: background-color 2.0s ease;
+  -ms-transition: background-color 2.0s ease;
+  -o-transition: background-color 2.0s ease;
+  transition: background-color 2.0s ease;
 }
 .social-footer {
   position: fixed;
