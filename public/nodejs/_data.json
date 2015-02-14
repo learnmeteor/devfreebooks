@@ -8,6 +8,18 @@
     "category": "languages",
     "books": [
       {
+        "title": "Module Patterns",
+        "description": "The first short book of this series is a short introduction that sets the foundation of the next books to come. It shows what you can do with JavaScript and the Node module system to create and consume different types of modules: Singletons, Closure-based and prototype-based pseudo-classes, façades and others.",
+        "author": "Pedro Teixeira",
+        "pages": 37, 
+        "year": 2014, 
+        "image": "module-patterns.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/modulepatterns?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "JavaScript and Node FUNdamentals",
         "description": "A short read to brush up and refresh JavaScript and Node.js topics.",
         "author": "Azat Mardan",

@@ -8,6 +8,42 @@
     "category": "languages",
     "books": [
       {
+        "title": "HTML 5 Shoot 'em Up in an Afternoon",
+        "description": "Learn (or teach) the basics of Game Programming with this free Phaser tutorial.",
+        "author": "Bryan Bibat",
+        "pages": 95, 
+        "year": 2014,
+        "image": "html5-shoot-em-up-in-an-afternoon.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/html5shootemupinanafternoon?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Learn Javascript",
+        "description": "This book will teach you the basics of programming and Javascript.",
+        "author": "Gitbook",
+        "pages": 37, 
+        "year": 2014,
+        "image": "learn-javascript.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "http://gitbookio.gitbooks.io/javascript"
+      },
+      {
+        "title": "D3 Tips and Tricks",
+        "description": "Interactive Data Visualization in a Web Browser.",
+        "author": "Malcolm Maclean",
+        "pages": 591, 
+        "year": 2015,
+        "image": "d3-tips-and-tricks.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/D3-Tips-and-Tricks?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "Human JavaScript",
         "description": "This is a book about a specific set of tools, patterns, and approaches that we feel are optimized for people. These approaches enable our team to quickly build and deliver high-quality JavaScript applications for humans.",
         "author": "Henrik Joreteg",

@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "php",
+    "subtitle": "PHP",
+    "about": "PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.",
+    "site": "https://php.net/",
+    "image": "php.jpg",
+    "category": "languages",
+    "books": [
+      {
+        "title": "Laravel 4 Official Documentation",
+        "description": "Synced daily. A free ebook version of the Laravel 4.2 Official Documentation.",
+        "author": "Brujah",
+        "pages": 344, 
+        "year": 2015, 
+        "image": "laravel-4-official-documentation.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150214",
+        "url": "https://leanpub.com/l4?a=2hxrOg_7DAAAx2pWvoaFpT"
+      }
+    ]
+  }
+}

@@ -16,6 +16,8 @@
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
     "platforms": ["nodejs", "angularjs", "javascript", 
                   "meteor","go", "firefoxos",
-                  "python", "java"]
+                  "python", "java", "ios", 
+                  "elixir", "php", "ruby", 
+                  "django", "git"]
   }
 }
