@@ -28,13 +28,17 @@ module.exports = function() {
       var bookId = book.title.replace(/[^\w\s]/g, "").replace(/\s/g, "-").toLowerCase();
       var bookLink = rootUrl + platformName + "/#" + bookId;
       var bookPublishedAt = moment(book.published_at || moment().format("YYYYMMDD"), "YYYYMMDD");
+      var bookImage = imageRootUrl + (book.image || platform.image);
 
       books.push({
         title: "Book: " + book.title,
         description: book.description,
         url: bookLink,
         author: harp.author,
-        date: bookPublishedAt.format("ll")
+        date: bookPublishedAt.format("ll"),
+        enclosure: {
+          url: bookImage
+        }
       });
     });
   });
