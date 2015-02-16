@@ -8,6 +8,30 @@
     "category": "languages",
     "books": [
       {
+        "title": "Developing Games with Ruby",
+        "description": "At day you have to wrangle with legacy code, fix bugs, struggle with APIs, deploy services and integrate things. Yet you wish you could create worlds, animate dragons, break laws of physics and design artificial intelligence. You can.",
+        "author": "Tomas Varaneckas",
+        "pages": 254, 
+        "year": 2014, 
+        "image": "developing-games-with-ruby.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "https://leanpub.com/developing-games-with-ruby?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "Learn Ruby The Hard Way",
+        "description": "This book instructs you in Ruby by slowly building and establishing skills through techniques like practice and memorization, then applying them to increasingly difficult problems. By the end of the book you will have the tools needed to begin learning more complex programming topics.",
+        "author": "Zed A. Shaw",
+        "pages": 57, 
+        "year": 2014, 
+        "image": "learn-ruby-the-hard-way.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://learnrubythehardway.org/book"
+      },
+      {
         "title": "RubyKin",
         "description": "Teach kids to code, with Ruby!",
         "author": "Doug Wright",

@@ -8,6 +8,30 @@
     "category": "languages",
     "books": [
       {
+        "title": "Objective-C Succinctly",
+        "description": "Learn Objective-C from the syntax up with detailed code samples and much more.",
+        "author": "Ryan Hodson",
+        "pages": 111, 
+        "year": 2014,
+        "image": "objective-c-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/objective-c"
+      },
+      {
+        "title": "iOS Succinctly",
+        "description": "The companion to Objective-C Succinctly, and your practical introduction to developing for iOS.",
+        "author": "Ryan Hodson",
+        "pages": 118, 
+        "year": 2014,
+        "image": "ios-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/ios"
+      },
+      {
         "title": "iOS 8 Day by Day",
         "description": "A review of all the important part of iOS 8 for developers. Presented in 39 easy to digest chunks, each with a sample project.",
         "author": "Sam Davies",

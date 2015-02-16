@@ -8,6 +8,18 @@
     "category": "languages",
     "books": [
       {
+        "title": "PHP The Right Way",
+        "description": "PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.",
+        "author": "Josh Lockhart",
+        "pages": 1, 
+        "year": 2015, 
+        "image": "php-the-right-way.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.phptherightway.com"
+      },
+      {
         "title": "Laravel 4 Official Documentation",
         "description": "Synced daily. A free ebook version of the Laravel 4.2 Official Documentation.",
         "author": "Brujah",

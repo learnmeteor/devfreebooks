@@ -8,6 +8,18 @@
     "category": "languages",
     "books": [
       {
+        "title": "What's New in Java 8",
+        "description": "This book will help you understand Java 8, including Project Lambda, the new Date-Time API, Streams, Nashorn, and more.",
+        "author": "Adam L. Davis",
+        "pages": 53, 
+        "year": 2014, 
+        "image": "whats-new-in-java8.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "https://leanpub.com/whatsnewinjava8?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "The Java® Language Specification Java SE 8 Edition",
         "description": "Written by the inventors of the Java Language Specification. This book provides complete and detailed coverage of the Java 8 programming language.",
         "author": "Oracle",

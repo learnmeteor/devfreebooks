@@ -8,6 +8,42 @@
     "category": "languages",
     "books": [
       {
+        "title": "jQuery Succinctly",
+        "description": "jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development.",
+        "author": "Cody Lindley",
+        "pages": 101, 
+        "year": 2014,
+        "image": "jquery-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/jquery"
+      },
+      {
+        "title": "Knockout.js Succinctly",
+        "description": "The Knockout JavaScript library is an invaluable tool for building dynamic, data-bound web UIs with minimal code.",
+        "author": "Ryan Hodson",
+        "pages": 68, 
+        "year": 2014,
+        "image": "knockout-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs"
+      },
+      {
+        "title": "Typescript Succinctly",
+        "description": "Jump into Microsoft's open-source superset of JavaScript with TypeScript Succinctly.",
+        "author": "Steve Fenton",
+        "pages": 82, 
+        "year": 2014,
+        "image": "typescript-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/typescript"
+      },
+      {
         "title": "HTML 5 Shoot 'em Up in an Afternoon",
         "description": "Learn (or teach) the basics of Game Programming with this free Phaser tutorial.",
         "author": "Bryan Bibat",

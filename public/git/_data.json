@@ -8,6 +8,18 @@
     "category": "devtools",
     "books": [
       {
+        "title": "Git Succinctly",
+        "description": "With Git Succinctly by Ryan Hodson, you can get up and running with one of the fastest-spreading revision control systems out there.",
+        "author": "Ryan Hodson",
+        "pages": 59, 
+        "year": 2014,
+        "image": "git-succinctly.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150216",
+        "url": "http://www.syncfusion.com/resources/techportal/ebooks/git"
+      },
+      {
         "title": "Git for Everyone",
         "description": "Unless you have been living in a cave, Git is everywhere. Creative or engineering, you have directly encountered or will encounter Git in the workplace. A common misconception as well is that Git is only for teams? Regardless of work style or team size, Git is the tool that everyone should be using.",
         "author": "Dale Sande",
