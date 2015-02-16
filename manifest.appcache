@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-14T20:35:20.570Z
+# rev 1 - 2015-02-16T14:32:06.050Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -23,6 +23,7 @@ http://devfreebooks.org/assets/images/angularjs.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
 http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
 http://devfreebooks.org/assets/images/d3-tips-and-tricks.jpg
+http://devfreebooks.org/assets/images/developing-games-with-ruby.jpg
 http://devfreebooks.org/assets/images/devfreebooks-128.png
 http://devfreebooks.org/assets/images/devfreebooks-facebook.jpg
 http://devfreebooks.org/assets/images/devfreebooks-thumb.png
@@ -33,11 +34,13 @@ http://devfreebooks.org/assets/images/ecmascript-language-specification.jpg
 http://devfreebooks.org/assets/images/elixir.jpg
 http://devfreebooks.org/assets/images/firefoxos.jpg
 http://devfreebooks.org/assets/images/git-for-everyone.jpg
+http://devfreebooks.org/assets/images/git-succinctly.jpg
 http://devfreebooks.org/assets/images/git.jpg
 http://devfreebooks.org/assets/images/go.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/html5-shoot-em-up-in-an-afternoon.jpg
 http://devfreebooks.org/assets/images/human-javascript.jpg
+http://devfreebooks.org/assets/images/ios-succinctly.jpg
 http://devfreebooks.org/assets/images/ios.jpg
 http://devfreebooks.org/assets/images/ios8-day-by-day.jpg
 http://devfreebooks.org/assets/images/java-estrutura-dados.jpg
@@ -50,9 +53,12 @@ http://devfreebooks.org/assets/images/java.jpg
 http://devfreebooks.org/assets/images/javascript-and-node-fundamentals.jpg
 http://devfreebooks.org/assets/images/javascript-succinctly.jpg
 http://devfreebooks.org/assets/images/javascript.jpg
+http://devfreebooks.org/assets/images/jquery-succinctly.jpg
+http://devfreebooks.org/assets/images/knockout-succinctly.jpg
 http://devfreebooks.org/assets/images/laravel-4-official-documentation.jpg
 http://devfreebooks.org/assets/images/learn-javascript.jpg
 http://devfreebooks.org/assets/images/learn-python-the-hard-way.jpg
+http://devfreebooks.org/assets/images/learn-ruby-the-hard-way.jpg
 http://devfreebooks.org/assets/images/learning-javascript-design-patterns.jpg
 http://devfreebooks.org/assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
 http://devfreebooks.org/assets/images/mastering-nodejs.jpg
@@ -62,6 +68,8 @@ http://devfreebooks.org/assets/images/node-express-and-libsass-project-from-scra
 http://devfreebooks.org/assets/images/nodejs-succinctly.jpg
 http://devfreebooks.org/assets/images/nodejs.jpg
 http://devfreebooks.org/assets/images/npm-recipes.jpg
+http://devfreebooks.org/assets/images/objective-c-succinctly.jpg
+http://devfreebooks.org/assets/images/php-the-right-way.jpg
 http://devfreebooks.org/assets/images/php.jpg
 http://devfreebooks.org/assets/images/practical-angularjs.jpg
 http://devfreebooks.org/assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
@@ -74,8 +82,10 @@ http://devfreebooks.org/assets/images/ruby.jpg
 http://devfreebooks.org/assets/images/rubykin.jpg
 http://devfreebooks.org/assets/images/swift-cheat-sheet.jpg
 http://devfreebooks.org/assets/images/the-little-go-book.jpg
+http://devfreebooks.org/assets/images/typescript-succinctly.jpg
 http://devfreebooks.org/assets/images/understanding-ecmascript-6.jpg
 http://devfreebooks.org/assets/images/web-development-using-elixir.jpg
+http://devfreebooks.org/assets/images/whats-new-in-java8.jpg
 http://devfreebooks.org/assets/images/your-first-app-nodejs.jpg
 http://devfreebooks.org/assets/images/your-first-meteor-application.jpg
 http://devfreebooks.org/assets/js/aightjs.gz.js
