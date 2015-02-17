@@ -185,3 +185,23 @@ body{
   margin-top: -75px;
   visibility: hidden;
 }
+
+/*
+ * Carbon Ads CSS
+ */
+.carbonads {
+  background: #FEFEFE;
+}
+.carbonads .carbon-img {
+  float: left;
+  margin: 10px;
+}
+.carbonads .carbon-text {
+  font-size: 12px;
+  line-height: 115px;
+}
+.carbonads .carbon-poweredby {
+  font-size: 12px;
+  color: #999;
+  margin-left: 5px;
+}
