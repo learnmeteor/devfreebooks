@@ -55,15 +55,11 @@ module.exports = function(grunt) {
       }
     },
 
-    // CSS Min =======================================
-    cssmin: {
+    // Stylus ========================================
+    stylus: {
       main: {
-        options: {
-          keepSpecialComments: 0
-        },
-        files: {
-          "www/assets/css/main.css": ["www/assets/css/main.css"]
-        }
+        options: { compress: true },
+        files: { 'public/assets/css/application.css': 'public/assets/css/_application.styl' }
       }
     },
 
@@ -123,12 +119,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-appcache");
   grunt.loadNpmTasks("grunt-execute");
   grunt.loadNpmTasks("grunt-contrib-compress");
-  grunt.loadNpmTasks("grunt-contrib-cssmin");
+  grunt.loadNpmTasks("grunt-contrib-stylus");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-contrib-concat");
   grunt.loadNpmTasks("grunt-contrib-clean");
   
-  grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "harp:dev"]);
+  grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "stylus", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "harp:prod", "cssmin", "uglify", "compress", "appcache", "gh-pages"]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "stylus", "harp:prod", "uglify", "compress", "appcache", "gh-pages"]);
 };
