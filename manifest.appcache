@@ -1,13 +1,13 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-17T12:42:54.042Z
+# rev 1 - 2015-02-17T13:37:27.650Z
 
 CACHE:
 http://devfreebooks.org/404.html
 http://devfreebooks.org/CNAME
 http://devfreebooks.org/about/index.html
 http://devfreebooks.org/angularjs/index.html
-http://devfreebooks.org/assets/css/main.css
-http://devfreebooks.org/assets/css/main.gz.css
+http://devfreebooks.org/assets/css/application.css
+http://devfreebooks.org/assets/css/application.gz.css
 http://devfreebooks.org/assets/font/icon.eot
 http://devfreebooks.org/assets/font/icon.svg
 http://devfreebooks.org/assets/font/icon.ttf
