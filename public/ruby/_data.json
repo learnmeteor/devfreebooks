@@ -8,6 +8,18 @@
     "category": "languages",
     "books": [
       {
+        "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",
+        "description": "Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming.",
+        "author": "Reginald Braithwaite",
+        "pages": 123, 
+        "year": 2011, 
+        "image": "kestrels-quirky-birds-and-hopeless-egocentricity.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/combinators?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "Developing Games with Ruby",
         "description": "At day you have to wrangle with legacy code, fix bugs, struggle with APIs, deploy services and integrate things. Yet you wish you could create worlds, animate dragons, break laws of physics and design artificial intelligence. You can.",
         "author": "Tomas Varaneckas",

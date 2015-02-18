@@ -8,6 +8,42 @@
     "category": "languages",
     "books": [
       {
+        "title": "JavaScript Allongé",
+        "description": "A long pull of functions, combinators & decorators.",
+        "author": "Reginald Braithwaite",
+        "pages": 252, 
+        "year": 2013,
+        "image": "javascript-allonge.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/javascript-allonge?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "CoffeeScript Ristretto",
+        "description": "CoffeeScript Ristretto is a book about programming with functions that uses the CoffeeScript programming language for the examples and exercises.",
+        "author": "Reginald Braithwaite",
+        "pages": 142, 
+        "year": 2013,
+        "image": "coffeescript-ristretto.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/coffeescript-ristretto?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
+        "title": "JavaScript Spessore",
+        "description": "JavaScript Spessore will show you how to build JavaScript programs that scale in code, in time, and across a team, using the one technique that has passed the test of time: Objects and metaobjects that have a single responsibility, are decoupled from each other, and can be composed freely.",
+        "author": "Reginald Braithwaite",
+        "pages": 364, 
+        "year": 2013,
+        "image": "javascript-spessore.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150218",
+        "url": "https://leanpub.com/javascript-spessore?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "jQuery Succinctly",
         "description": "jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development.",
         "author": "Cody Lindley",
