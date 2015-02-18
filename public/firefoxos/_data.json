@@ -5,6 +5,7 @@
     "about": "Firefox OS is the new mobile operating system developed by Mozilla, based on Linux and Firefox's powerful Gecko rendering engine.",
     "site": "https://developer.mozilla.org/en-US/Firefox_OS",
     "image": "firefoxos.jpg",
+    "description": "Read the best free ebooks about Firefox OS mobile platform.",
     "category": "frameworks",
     "books": [
       {

@@ -5,6 +5,7 @@
     "about": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
     "site": "http://golang.org",
     "image": "go.jpg",
+    "description": "Read the best free ebooks about Go language.",
     "category": "languages",
     "books": [
       {

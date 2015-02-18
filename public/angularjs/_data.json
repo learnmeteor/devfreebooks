@@ -4,6 +4,7 @@
     "subtitle": "AngularJS",
     "about": "AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries. Every feature can be modified or replaced to suit your unique development workflow and feature needs.",
     "site": "https://angularjs.org",
+    "description": "Read the best free ebooks about AngularJS framework.",
     "image": "angularjs.jpg",
     "category": "frameworks",
     "books": [
