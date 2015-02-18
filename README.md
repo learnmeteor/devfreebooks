@@ -1,6 +1,6 @@
 # DevFreeBooks
 
-This is the repository of the site http://devfreecasts.org to submit ebook links.
+This is the repository of the site http://devfreebooks.org to submit ebook links.
 
 ## How to add books?
 
