@@ -1,7 +1,10 @@
-!= partial("ads_header")
-h3 #{subtitle}
-section
-  p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
+section.row
+  .col-xs-12.col-sm-9
+    h3 #{subtitle}
+    p #{about}<br>Site: <a href="#{site}" target="_blank">#{site}</a>
+  .hidden-xs.col-sm-3
+    .thumbnail.carbonads
+      script(src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=devfreebooks" id="_carbonads_js")
 h4 Books
 section.row
   - var image_path = root_url[environment] + "assets/images/"

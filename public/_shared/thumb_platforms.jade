@@ -7,6 +7,9 @@ section.row-fluid.clearfix
     strong #{platforms.length}</strong> platforms and <strong>#{total_books}</strong> books
 section.row-fluid.clearfix
   div.row-fluid
+    div.hidden-xs.hidden-sm.col-md-3
+      div.thumbnail.carbonads-home
+        script(src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=devfreebooks" id="_carbonads_js")
     each platform in sorted_platforms
       - var platform_data = public[platform]._data.index
       div.col-xs-12.col-sm-4.col-md-3
