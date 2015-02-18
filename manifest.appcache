@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-18T02:10:48.761Z
+# rev 1 - 2015-02-18T15:28:48.402Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -22,6 +22,7 @@ http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
 http://devfreebooks.org/assets/images/angularjs.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
 http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
+http://devfreebooks.org/assets/images/coffeescript-ristretto.jpg
 http://devfreebooks.org/assets/images/d3-tips-and-tricks.jpg
 http://devfreebooks.org/assets/images/developing-games-with-ruby.jpg
 http://devfreebooks.org/assets/images/devfreebooks-128.png
@@ -37,6 +38,8 @@ http://devfreebooks.org/assets/images/git-for-everyone.jpg
 http://devfreebooks.org/assets/images/git-succinctly.jpg
 http://devfreebooks.org/assets/images/git.jpg
 http://devfreebooks.org/assets/images/go.jpg
+http://devfreebooks.org/assets/images/gradle-goodness-notebook.jpg
+http://devfreebooks.org/assets/images/groovy.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/html5-shoot-em-up-in-an-afternoon.jpg
 http://devfreebooks.org/assets/images/human-javascript.jpg
@@ -50,10 +53,13 @@ http://devfreebooks.org/assets/images/java-testes-jsf-web-services-design-patter
 http://devfreebooks.org/assets/images/java-virtual-machine-specification-8.jpg
 http://devfreebooks.org/assets/images/java-web.jpg
 http://devfreebooks.org/assets/images/java.jpg
+http://devfreebooks.org/assets/images/javascript-allonge.jpg
 http://devfreebooks.org/assets/images/javascript-and-node-fundamentals.jpg
+http://devfreebooks.org/assets/images/javascript-spessore.jpg
 http://devfreebooks.org/assets/images/javascript-succinctly.jpg
 http://devfreebooks.org/assets/images/javascript.jpg
 http://devfreebooks.org/assets/images/jquery-succinctly.jpg
+http://devfreebooks.org/assets/images/kestrels-quirky-birds-and-hopeless-egocentricity.jpg
 http://devfreebooks.org/assets/images/knockout-succinctly.jpg
 http://devfreebooks.org/assets/images/laravel-4-official-documentation.jpg
 http://devfreebooks.org/assets/images/learn-javascript.jpg
@@ -80,6 +86,7 @@ http://devfreebooks.org/assets/images/quick-guide-for-firefox-os-app-development
 http://devfreebooks.org/assets/images/recipes-with-angularjs.jpg
 http://devfreebooks.org/assets/images/ruby.jpg
 http://devfreebooks.org/assets/images/rubykin.jpg
+http://devfreebooks.org/assets/images/spocklight-notebook.jpg
 http://devfreebooks.org/assets/images/swift-cheat-sheet.jpg
 http://devfreebooks.org/assets/images/the-little-go-book.jpg
 http://devfreebooks.org/assets/images/typescript-succinctly.jpg
@@ -100,6 +107,7 @@ http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/git/index.html
 http://devfreebooks.org/go/index.html
+http://devfreebooks.org/groovy/index.html
 http://devfreebooks.org/index.html
 http://devfreebooks.org/ios/index.html
 http://devfreebooks.org/java/index.html
