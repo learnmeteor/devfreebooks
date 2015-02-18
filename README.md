@@ -1,6 +1,6 @@
 # DevFreeBooks
 
-A huge collection of free books for devs.
+This is the repository of the site http://devfreecasts.org to submit ebook links.
 
 ## How to add books?
 
