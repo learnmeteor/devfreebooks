@@ -9,6 +9,29 @@
     "category": "languages",
     "books": [
       {
+        "title": "Eloquent JavaScript (Second Edition)",
+        "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+        "author": "Marijn Haverbeke",
+        "pages": 490, 
+        "year": 2014,
+        "image": "eloquent-javascript.jpg", 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150225",
+        "url": "http://eloquentjavascript.net"
+      },
+      {
+        "title": "Building a JavaScript Framework",
+        "description": "This book is a guide to building a JavaScript framework. It’ll teach you how to build a framework and draw on real-world code from projects like jQuery.",
+        "author": "Alex Young",
+        "pages": 81, 
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150225",
+        "url": "http://dailyjs.com/files/build-a-javascript-framework.pdf"
+      },
+      {
         "title": "JavaScript Allongé",
         "description": "A long pull of functions, combinators & decorators.",
         "author": "Reginald Braithwaite",

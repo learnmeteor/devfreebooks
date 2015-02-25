@@ -9,6 +9,18 @@
     "category": "frameworks",
     "books": [
       {
+        "title": "Getting Started with Django",
+        "description": "This series is meant to take you from novice to competent. What do I mean by novice? You’ve done the Django tutorial, you understand the basics of Python, but you have little-to-no idea about how to go forward from here without making a ton of mistakes.",
+        "author": "Kenneth Love",
+        "pages": 1, 
+        "year": 2013, 
+        "image": "getting-started-with-django.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150225",
+        "url": "http://gettingstartedwithdjango.com/en/lessons/introduction-and-launch/"
+      },
+      {
         "title": "Django Girls Tutorial",
         "description": "This book is a Django tutorial created for DjangoGirls event.",
         "author": "DjangoGirls",
