@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-18T20:03:52.330Z
+# rev 1 - 2015-02-25T13:59:16.773Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -33,7 +33,10 @@ http://devfreebooks.org/assets/images/django-girls.jpg
 http://devfreebooks.org/assets/images/django.jpg
 http://devfreebooks.org/assets/images/ecmascript-language-specification.jpg
 http://devfreebooks.org/assets/images/elixir.jpg
+http://devfreebooks.org/assets/images/eloquent-javascript.jpg
+http://devfreebooks.org/assets/images/explore-flask.jpg
 http://devfreebooks.org/assets/images/firefoxos.jpg
+http://devfreebooks.org/assets/images/getting-started-with-django.jpg
 http://devfreebooks.org/assets/images/git-for-everyone.jpg
 http://devfreebooks.org/assets/images/git-succinctly.jpg
 http://devfreebooks.org/assets/images/git.jpg
