@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-27T15:25:53.510Z
+# rev 1 - 2015-02-27T15:50:25.660Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -23,6 +23,7 @@ http://devfreebooks.org/assets/images/angularjs.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
 http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
 http://devfreebooks.org/assets/images/coffeescript-ristretto.jpg
+http://devfreebooks.org/assets/images/creative-scala.jpg
 http://devfreebooks.org/assets/images/d3-tips-and-tricks.jpg
 http://devfreebooks.org/assets/images/developing-games-with-ruby.jpg
 http://devfreebooks.org/assets/images/devfreebooks-128.png
@@ -91,6 +92,8 @@ http://devfreebooks.org/assets/images/quick-guide-for-firefox-os-app-development
 http://devfreebooks.org/assets/images/recipes-with-angularjs.jpg
 http://devfreebooks.org/assets/images/ruby.jpg
 http://devfreebooks.org/assets/images/rubykin.jpg
+http://devfreebooks.org/assets/images/scala-by-example.jpg
+http://devfreebooks.org/assets/images/scala.jpg
 http://devfreebooks.org/assets/images/spocklight-notebook.jpg
 http://devfreebooks.org/assets/images/swift-cheat-sheet.jpg
 http://devfreebooks.org/assets/images/the-little-go-book.jpg
@@ -124,6 +127,7 @@ http://devfreebooks.org/python/index.html
 http://devfreebooks.org/robots.txt
 http://devfreebooks.org/rss.xml
 http://devfreebooks.org/ruby/index.html
+http://devfreebooks.org/scala/index.html
 
 NETWORK:
 *
