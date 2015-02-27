@@ -18,6 +18,7 @@
                   "meteor","go", "firefoxos",
                   "python", "java", "ios", 
                   "elixir", "php", "ruby", 
-                  "django", "git", "groovy"]
+                  "django", "git", "groovy",
+                  "scala"]
   }
 }
