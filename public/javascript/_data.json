@@ -9,6 +9,18 @@
     "category": "languages",
     "books": [
       {
+        "title": "Programming JavaScript Applications",
+        "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.",
+        "author": "Eric Elliott",
+        "pages": 254, 
+        "year": 2014, 
+        "image": "programming-javascript-applications.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150227",
+        "url": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
+      },
+      {
         "title": "Eloquent JavaScript (Second Edition)",
         "description": "This is a book about JavaScript, programming, and the wonders of the digital.",
         "author": "Marijn Haverbeke",
@@ -220,18 +232,6 @@
         "publish": true,
         "published_at": "20150204",
         "url": "https://www.syncfusion.com/resources/techportal/ebooks/javascript"
-      },
-      {
-        "title": "Programming JavaScript Applications",
-        "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain. By applying the design patterns outlined in this practical book, experienced JavaScript developers will learn how to write flexible and resilient code that’s easier—yes, easier—to work with as your code base grows.",
-        "author": "Eric Elliott",
-        "pages": 254, 
-        "year": 2014, 
-        "image": "http://akamaicovers.oreilly.com/images/0636920033141/cat.gif",
-        "lang": "EN",
-        "publish": true,
-        "published_at": "20150226",
-        "url": "http://chimera.labs.oreilly.com/books/1234000000262/index.html"
       }
     ]
   }
