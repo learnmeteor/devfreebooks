@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-02-27T15:50:25.660Z
+# rev 1 - 2015-03-06T14:18:42.985Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -99,6 +99,7 @@ http://devfreebooks.org/assets/images/swift-cheat-sheet.jpg
 http://devfreebooks.org/assets/images/the-little-go-book.jpg
 http://devfreebooks.org/assets/images/typescript-succinctly.jpg
 http://devfreebooks.org/assets/images/understanding-ecmascript-6.jpg
+http://devfreebooks.org/assets/images/vim.jpg
 http://devfreebooks.org/assets/images/web-development-using-elixir.jpg
 http://devfreebooks.org/assets/images/whats-new-in-java8.jpg
 http://devfreebooks.org/assets/images/your-first-app-nodejs.jpg
@@ -128,6 +129,7 @@ http://devfreebooks.org/robots.txt
 http://devfreebooks.org/rss.xml
 http://devfreebooks.org/ruby/index.html
 http://devfreebooks.org/scala/index.html
+http://devfreebooks.org/vim/index.html
 
 NETWORK:
 *
