@@ -1,0 +1,24 @@
+{
+  "index": {
+    "name": "vim",
+    "subtitle": "Vim",
+    "about": "Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.",
+    "site": "http://www.vim.org",
+    "image": "vim.jpg",
+    "description": "Watch screencasts over a list with the best free videos about VIM IDE.",
+    "category": "devtools",
+    "books": [
+      {
+        "title": "A byte of Vim",
+        "description": "This is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard.",
+        "author": "Swaroop C H",
+        "pages": 89, 
+        "year": 2008, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150306",
+        "url": "http://files.swaroopch.com/vim/byte_of_vim_v051.pdf"
+      }
+    ]
+  }
+}

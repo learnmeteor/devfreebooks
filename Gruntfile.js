@@ -72,6 +72,24 @@ module.exports = function(grunt) {
       }
     },
 
+    // CSS Unused ========================================
+    uncss: {
+      prod: {
+        src: ["www/**/index.html"],
+        dest: "www/assets/css/application.css"
+      }
+    },
+
+    // CSS MIN ======================================
+    cssmin: {
+      prod: {
+        files: [{
+          src: "www/assets/css/application.css",
+          dest: "www/assets/css/application.css"
+        }]
+      }
+    },
+
     // Compress ======================================
     compress: {
       main: {
@@ -118,13 +136,15 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-env");
   grunt.loadNpmTasks("grunt-appcache");
   grunt.loadNpmTasks("grunt-execute");
+  grunt.loadNpmTasks("grunt-uncss");
   grunt.loadNpmTasks("grunt-contrib-compress");
   grunt.loadNpmTasks("grunt-contrib-stylus");
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-contrib-concat");
   grunt.loadNpmTasks("grunt-contrib-clean");
+  grunt.loadNpmTasks("grunt-contrib-cssmin");
   
   grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "stylus", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
-  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "stylus", "harp:prod", "uglify", "compress", "appcache", "gh-pages"]);
+  grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "stylus", "harp:prod", "uglify", "uncss:prod", "cssmin:prod", "compress", "appcache", "gh-pages"]);
 };

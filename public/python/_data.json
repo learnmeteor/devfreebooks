@@ -9,6 +9,17 @@
     "category": "languages",
     "books": [
       {
+        "title": "A byte of Python",
+        "description": "This is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.",
+        "author": "Swaroop C H",
+        "pages": 176, 
+        "year": 2014, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150306",
+        "url": "http://www.swaroopch.com/notes/python/#_download"
+      },
+      {
         "title": "Explore Flask",
         "description": "Explore Flask is a book about best practices and patterns for developing web applications with Flask.",
         "author": "Robert Picard",
