@@ -1,0 +1,25 @@
+{
+  "index": {
+    "name": "http",
+    "subtitle": "HTTP Protocol",
+    "about": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. HTTP is the protocol to exchange or transfer hypertext.",
+    "site": "http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
+    "image": "http.jpg",
+    "description": "Read free books and learn about the most used protocol in the internet, the HTTP.",
+    "category": "devtools",
+    "books": [
+      {
+        "title": "HTTP2 Explained",
+        "description": "The book HTTP2 Explained describes the protocol HTTP/2 at a technical and protocol level. Background, the protocol, the implementations and the future.",
+        "author": "Daniel Stenberg",
+        "pages": 33, 
+        "year": 2015, 
+        "image": "http2-explained.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150312",
+        "url": "http://daniel.haxx.se/http2"
+      }
+    ]
+  }
+}

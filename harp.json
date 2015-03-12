@@ -19,6 +19,7 @@
                   "python", "java", "ios", 
                   "elixir", "php", "ruby", 
                   "django", "git", "groovy",
-                  "scala", "vim"]
+                  "scala", "vim", "famous",
+                  "http"]
   }
 }
