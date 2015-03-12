@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-03-08T16:44:27.940Z
+# rev 1 - 2015-03-12T14:15:54.580Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -20,6 +20,7 @@ http://devfreebooks.org/assets/images/an-introduction-to-programming-in-go.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
 http://devfreebooks.org/assets/images/angularjs.jpg
+http://devfreebooks.org/assets/images/build-web-application-with-golang.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
 http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
 http://devfreebooks.org/assets/images/coffeescript-ristretto.jpg
@@ -36,6 +37,8 @@ http://devfreebooks.org/assets/images/ecmascript-language-specification.jpg
 http://devfreebooks.org/assets/images/elixir.jpg
 http://devfreebooks.org/assets/images/eloquent-javascript.jpg
 http://devfreebooks.org/assets/images/explore-flask.jpg
+http://devfreebooks.org/assets/images/famous-mobile-apps.jpg
+http://devfreebooks.org/assets/images/famous.jpg
 http://devfreebooks.org/assets/images/firefoxos.jpg
 http://devfreebooks.org/assets/images/getting-started-with-django.jpg
 http://devfreebooks.org/assets/images/git-for-everyone.jpg
@@ -46,6 +49,8 @@ http://devfreebooks.org/assets/images/gradle-goodness-notebook.jpg
 http://devfreebooks.org/assets/images/groovy.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/html5-shoot-em-up-in-an-afternoon.jpg
+http://devfreebooks.org/assets/images/http.jpg
+http://devfreebooks.org/assets/images/http2-explained.jpg
 http://devfreebooks.org/assets/images/human-javascript.jpg
 http://devfreebooks.org/assets/images/ios-succinctly.jpg
 http://devfreebooks.org/assets/images/ios.jpg
@@ -112,11 +117,13 @@ http://devfreebooks.org/assets/js/html5shiv.gz.js
 http://devfreebooks.org/assets/js/html5shiv.min.js
 http://devfreebooks.org/django/index.html
 http://devfreebooks.org/elixir/index.html
+http://devfreebooks.org/famous/index.html
 http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/git/index.html
 http://devfreebooks.org/go/index.html
 http://devfreebooks.org/groovy/index.html
+http://devfreebooks.org/http/index.html
 http://devfreebooks.org/index.html
 http://devfreebooks.org/ios/index.html
 http://devfreebooks.org/java/index.html
