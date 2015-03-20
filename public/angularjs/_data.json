@@ -9,6 +9,18 @@
     "category": "frameworks",
     "books": [
       {
+        "title": "Angular Basics",
+        "description": "A free interactive book, covering directives, modules, services, controllers, routing, and more.",
+        "author": "Chris Smith",
+        "pages": 14, 
+        "year": 2015, 
+        "image": "angular-basics.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150319",
+        "url": "http://www.angularjsbook.com"
+      },
+      {
         "title": "AngularJS Succinctly",
         "description": "Perform common tasks and overcome common problems in Angular.js.",
         "author": "Frederik Dietz",

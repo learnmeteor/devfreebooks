@@ -9,6 +9,8 @@ header.header
         img(src="#{root_url[environment]}assets/images/devfreebooks.png" width="228" height="35" alt="DevFreeBooks - #{description}" title="DevFreeBooks - #{description}")
     div.navbar-right.navbar-collapse.hidden-xs
       ul.nav.navbar-nav
+        li.hidden-xs.hidden-sm
+          a.navbar-link(href="https://github.com/caio-ribeiro-pereira/devfreebooks/blob/master/README.md#how-to-add-books" target="_blank" title="Just click and follow these rules to submit an ebook.") <i class="icon-plus"></i>&nbsp;Submit ebook
         li
           a.navbar-link(href="https://twitter.com/devfreebooks" rel="nofollow" title="Follow us on Twitter to be updated about new books!" target="_blank") <i class="icon-twitter"></i>&nbsp;Follow us
         li
@@ -16,9 +18,7 @@ header.header
         li.hidden-xs
           a.navbar-link(href="http://feeds.feedburner.com/DevFreeBooks" rel="nofollow" title="Add this feed to be updated about new books!" target="_blank") <i class="icon-rss"></i>&nbsp;Feed
         li.visible-xs
-          a.navbar-link(href="#{devfreecasts.url}" target="_blank" rel="me" title="#{devfreecasts.about}") <i class="icon-play"></i>&nbsp;#{devfreecasts.title}
-        li.hidden-xs.hidden-sm
-          a.navbar-link(href="https://github.com/caio-ribeiro-pereira/devfreebooks/blob/master/README.md#how-to-add-books" target="_blank") <i class="icon-plus"></i>&nbsp;Add book
+          a.navbar-link(href="#{devfreecasts.url}" target="_blank" rel="me" title="#{devfreecasts.about}" rel="me") <i class="icon-play"></i>&nbsp;#{devfreecasts.title}
         li
           a.navbar-link(href="https://pledgie.com/campaigns/28341" rel="nofollow" title="Please, help this project! Now you can donate with any value to maintain this site alive!" target="_blank") <i class="icon-child"></i>&nbsp;Donate
         li
