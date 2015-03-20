@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-03-12T18:01:35.194Z
+# rev 1 - 2015-03-20T01:14:26.296Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -17,6 +17,7 @@ http://devfreebooks.org/assets/font/opensans.svg
 http://devfreebooks.org/assets/font/opensans.ttf
 http://devfreebooks.org/assets/font/opensans.woff
 http://devfreebooks.org/assets/images/an-introduction-to-programming-in-go.jpg
+http://devfreebooks.org/assets/images/angular-basics.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
 http://devfreebooks.org/assets/images/angularjs.jpg
@@ -47,6 +48,7 @@ http://devfreebooks.org/assets/images/git.jpg
 http://devfreebooks.org/assets/images/go.jpg
 http://devfreebooks.org/assets/images/gradle-goodness-notebook.jpg
 http://devfreebooks.org/assets/images/groovy.jpg
+http://devfreebooks.org/assets/images/haskell.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/html5-shoot-em-up-in-an-afternoon.jpg
 http://devfreebooks.org/assets/images/http.jpg
@@ -94,6 +96,7 @@ http://devfreebooks.org/assets/images/programming-javascript-applications.jpg
 http://devfreebooks.org/assets/images/python-practice-book.jpg
 http://devfreebooks.org/assets/images/python.jpg
 http://devfreebooks.org/assets/images/quick-guide-for-firefox-os-app-development.jpg
+http://devfreebooks.org/assets/images/real-world-haskell.jpg
 http://devfreebooks.org/assets/images/recipes-with-angularjs.jpg
 http://devfreebooks.org/assets/images/ruby.jpg
 http://devfreebooks.org/assets/images/rubykin.jpg
@@ -123,6 +126,7 @@ http://devfreebooks.org/firefoxos/index.html
 http://devfreebooks.org/git/index.html
 http://devfreebooks.org/go/index.html
 http://devfreebooks.org/groovy/index.html
+http://devfreebooks.org/haskell/index.html
 http://devfreebooks.org/http/index.html
 http://devfreebooks.org/index.html
 http://devfreebooks.org/ios/index.html
