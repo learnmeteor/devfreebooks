@@ -5,7 +5,8 @@
   "author": "Caio Ribeiro Pereira",
   "license": "MIT",
   "scripts": {
-    "start": "./node_modules/.bin/grunt serve"
+    "start": "./node_modules/.bin/grunt serve",
+    "deploy": "./node_modules/.bin/grunt deploy"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
