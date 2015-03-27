@@ -9,6 +9,18 @@
     "category": "frameworks",
     "books": [
       {
+        "title": "Firefox OS In Action",
+        "description": "Firefox OS in Action is the definitive guide for anyone who wants to build applications for Firefox OS. It teaches you how to create great looking, responsive and functional applications from the ground up. In the book you'll find sensor usage, animations, design, offline usage and much more.",
+        "author": "Jan Jongboom",
+        "pages": 121, 
+        "year": 2015, 
+        "image": "firefoxos-in-action.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150326",
+        "url": "https://leanpub.com/firefoxosinaction?a=2hxrOg_7DAAAx2pWvoaFpT"
+      },
+      {
         "title": "Quick Guide For Firefox OS App Development",
         "description": "Learn how easy and quick it is to develop applications for Firefox OS, the new mobile operating system by Mozilla. Empowered by this books practical approach you will learn thru examples how to develop apps from the beginning all the way to the distribution in the Firefox Markeplace.",
         "author": "Andre Garzia",
