@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-03-27T00:37:16.328Z
+# rev 1 - 2015-03-28T12:46:53.427Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -97,6 +97,7 @@ http://devfreebooks.org/assets/images/programming-javascript-applications.jpg
 http://devfreebooks.org/assets/images/python-practice-book.jpg
 http://devfreebooks.org/assets/images/python.jpg
 http://devfreebooks.org/assets/images/quick-guide-for-firefox-os-app-development.jpg
+http://devfreebooks.org/assets/images/rails.jpg
 http://devfreebooks.org/assets/images/real-world-haskell.jpg
 http://devfreebooks.org/assets/images/recipes-with-angularjs.jpg
 http://devfreebooks.org/assets/images/ruby.jpg
@@ -137,6 +138,7 @@ http://devfreebooks.org/meteor/index.html
 http://devfreebooks.org/nodejs/index.html
 http://devfreebooks.org/php/index.html
 http://devfreebooks.org/python/index.html
+http://devfreebooks.org/rails/index.html
 http://devfreebooks.org/robots.txt
 http://devfreebooks.org/rss.xml
 http://devfreebooks.org/ruby/index.html
