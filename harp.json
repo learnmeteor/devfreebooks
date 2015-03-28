@@ -20,6 +20,6 @@
                   "elixir", "php", "ruby", 
                   "django", "git", "groovy",
                   "scala", "vim", "famous",
-                  "http", "haskell"]
+                  "http", "haskell", "rails"]
   }
 }
