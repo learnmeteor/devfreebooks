@@ -1,0 +1,25 @@
+{
+  "index": {
+    "name": "bitcoin",
+    "subtitle": "Bitcoin",
+    "about": "Bitcoin is an innovative payment network and a new kind of money.",
+    "site": "https://bitcoin.org/",
+    "image": "bitcoin.png",
+    "description": "Read the best free ebooks about Bitcoin.",
+    "category": "languages",
+    "books": [
+      {
+        "title": "Mastering Bitcoin",
+        "description": "Mastering Bitcoin is essential reading for everyone interested in learning about bitcoin basics, the technical operation of bitcoin, or if you're building the next great bitcoin killer app or business.",
+        "author": "Andreas M. Antonopoulos",
+        "pages": 298, // Number of pages
+        "year": 2014, // Publish year
+        "image": "cover.jpg", // Book cover image (optional)
+        "lang": "EN", // book language. Ex.: EN, PT-BR, ES
+        "publish": true, // Publish to devfreebooks site
+        "url": "https://github.com/aantonop/bitcoinbook",
+        "published_at": "20141220" // Current publish date in format YYYYMMDD
+      }
+    ]
+  }
+}
