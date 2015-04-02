@@ -13,6 +13,11 @@
       "about": "A huge collection of free screencasts for developers",
       "url": "http://devfreecasts.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
+    "devgroups": {
+      "title": "DevGroups",
+      "about": "A huge list of developer groups around the world",
+      "url": "http://devgroups.org?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
+    },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks",
     "platforms": ["bitcoin", "nodejs", "angularjs", "javascript", 
                   "meteor","go", "firefoxos",
