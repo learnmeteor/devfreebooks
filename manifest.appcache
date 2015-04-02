@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-03-28T12:46:53.427Z
+# rev 1 - 2015-04-02T12:10:54.758Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -21,6 +21,7 @@ http://devfreebooks.org/assets/images/angular-basics.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
 http://devfreebooks.org/assets/images/angularjs.jpg
+http://devfreebooks.org/assets/images/bitcoin.jpg
 http://devfreebooks.org/assets/images/build-web-application-with-golang.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
 http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
@@ -79,6 +80,7 @@ http://devfreebooks.org/assets/images/learn-python-the-hard-way.jpg
 http://devfreebooks.org/assets/images/learn-ruby-the-hard-way.jpg
 http://devfreebooks.org/assets/images/learning-javascript-design-patterns.jpg
 http://devfreebooks.org/assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
+http://devfreebooks.org/assets/images/mastering-bitcoin.jpg
 http://devfreebooks.org/assets/images/mastering-nodejs.jpg
 http://devfreebooks.org/assets/images/meteor.jpg
 http://devfreebooks.org/assets/images/module-patterns.jpg
@@ -120,6 +122,7 @@ http://devfreebooks.org/assets/js/application.gz.js
 http://devfreebooks.org/assets/js/application.js
 http://devfreebooks.org/assets/js/html5shiv.gz.js
 http://devfreebooks.org/assets/js/html5shiv.min.js
+http://devfreebooks.org/bitcoin/index.html
 http://devfreebooks.org/django/index.html
 http://devfreebooks.org/elixir/index.html
 http://devfreebooks.org/famous/index.html
