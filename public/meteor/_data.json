@@ -6,7 +6,6 @@
     "site": "https://www.meteor.com",
     "image": "meteor.jpg",
     "description": "Read the best free ebooks about Meteor web framework.",
-    "category": "frameworks",
     "books": [
       {
         "title": "Your First Meteor Application",

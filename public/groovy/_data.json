@@ -6,7 +6,6 @@
     "site": "http://groovy.codehaus.org",
     "image": "groovy.jpg",
     "description": "Read the best free ebooks about Groovy language.",
-    "category": "languages",
     "books": [
       {
         "title": "Gradle Goodness Notebook",

@@ -6,7 +6,6 @@
     "site": "http://golang.org",
     "image": "go.jpg",
     "description": "Read the best free ebooks about Go language.",
-    "category": "languages",
     "books": [
       {
         "title": "Build web application with Golang",

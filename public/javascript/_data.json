@@ -6,7 +6,6 @@
     "site": "https://developer.mozilla.org/en/docs/Web/JavaScript",
     "image": "javascript.jpg",
     "description": "Read the best free ebooks about JavaScript language.",
-    "category": "languages",
     "books": [
       {
         "title": "Programming JavaScript Applications",

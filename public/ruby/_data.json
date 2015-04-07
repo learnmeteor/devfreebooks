@@ -6,7 +6,6 @@
     "site": "https://www.ruby-lang.org",
     "image": "ruby.jpg",
     "description": "Read the best free ebooks about Ruby language.",
-    "category": "languages",
     "books": [
       {
         "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",

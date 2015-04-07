@@ -6,7 +6,6 @@
     "site": "http://rubyonrails.org",
     "image": "rails.jpg",
     "description": "Read a list with best free ebook about Ruby On Rails web framework.",
-    "category": "frameworks",
     "books": [
       {
         "title": "APIs on Rails",

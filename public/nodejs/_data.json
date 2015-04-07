@@ -6,7 +6,6 @@
     "site": "http://nodejs.org",
     "image": "nodejs.jpg",
     "description": "Read the best free ebooks about Node.js.",
-    "category": "languages",
     "books": [
       {
         "title": "Module Patterns",

@@ -6,7 +6,6 @@
     "site": "https://famo.us",
     "image": "famous.jpg",
     "description": "Read the best free ebooks about Famo.us framework here.",
-    "category": "frameworks",
     "books": [
       {
         "title": "Famous Mobile Apps",

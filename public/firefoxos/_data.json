@@ -6,7 +6,6 @@
     "site": "https://developer.mozilla.org/en-US/Firefox_OS",
     "image": "firefoxos.jpg",
     "description": "Read the best free ebooks about Firefox OS mobile platform.",
-    "category": "frameworks",
     "books": [
       {
         "title": "Firefox OS In Action",

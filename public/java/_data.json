@@ -6,7 +6,6 @@
     "site": "https://www.oracle.com/java/index.html",
     "image": "java.jpg",
     "description": "Read the best free ebooks about Java language.",
-    "category": "languages",
     "books": [
       {
         "title": "What's New in Java 8",

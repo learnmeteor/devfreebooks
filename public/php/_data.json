@@ -6,7 +6,6 @@
     "site": "https://php.net/",
     "image": "php.jpg",
     "description": "Read the best free ebooks about PHP language.",
-    "category": "languages",
     "books": [
       {
         "title": "PHP The Right Way",

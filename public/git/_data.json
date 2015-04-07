@@ -6,7 +6,6 @@
     "site": "http://git-scm.com",
     "image": "git.jpg",
     "description": "Read the best free ebooks about Git.",
-    "category": "devtools",
     "books": [
       {
         "title": "Pro Git",

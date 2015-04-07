@@ -6,7 +6,6 @@
     "site": "http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
     "image": "http.jpg",
     "description": "Read free books and learn about the most used protocol in the internet, the HTTP.",
-    "category": "devtools",
     "books": [
       {
         "title": "HTTP2 Explained",

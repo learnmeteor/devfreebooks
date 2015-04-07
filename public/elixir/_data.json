@@ -6,7 +6,6 @@
     "site": "http://elixir-lang.org",
     "image": "elixir.jpg",
     "description": "Read the best free ebooks about Elixir language.",
-    "category": "languages",
     "books": [
       {
         "title": "Web Development Using Elixir",

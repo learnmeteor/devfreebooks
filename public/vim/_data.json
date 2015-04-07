@@ -5,8 +5,7 @@
     "about": "Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.",
     "site": "http://www.vim.org",
     "image": "vim.jpg",
-    "description": "Watch screencasts over a list with the best free videos about VIM IDE.",
-    "category": "devtools",
+    "description": "Read good ebooks about VIM only here and for free!",
     "books": [
       {
         "title": "A byte of Vim",

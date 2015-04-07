@@ -6,7 +6,6 @@
     "site": "https://www.haskell.org",
     "image": "haskell.jpg",
     "description": "Read some best Haskell's ebook here for free.",
-    "category": "languages",
     "books": [
       {
         "title": "Parallel and Concurrent Programming in Haskell",

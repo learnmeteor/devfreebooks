@@ -6,7 +6,6 @@
     "site": "https://www.python.org/",
     "image": "python.jpg",
     "description": "Read the best free ebooks about Python language.",
-    "category": "languages",
     "books": [
       {
         "title": "A byte of Python",

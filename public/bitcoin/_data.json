@@ -6,7 +6,6 @@
     "site": "https://bitcoin.org/",
     "image": "bitcoin.jpg",
     "description": "Read the best free ebooks about Bitcoin.",
-    "category": "languages",
     "books": [
       {
         "title": "Mastering Bitcoin",
