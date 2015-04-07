@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-05T16:19:55.048Z
+# rev 1 - 2015-04-07T14:23:04.652Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -91,6 +91,7 @@ http://devfreebooks.org/assets/images/npm-recipes.jpg
 http://devfreebooks.org/assets/images/objective-c-succinctly.jpg
 http://devfreebooks.org/assets/images/php-the-right-way.jpg
 http://devfreebooks.org/assets/images/php.jpg
+http://devfreebooks.org/assets/images/playframework.jpg
 http://devfreebooks.org/assets/images/practical-angularjs.jpg
 http://devfreebooks.org/assets/images/pro-git.jpg
 http://devfreebooks.org/assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
@@ -140,6 +141,7 @@ http://devfreebooks.org/javascript/index.html
 http://devfreebooks.org/meteor/index.html
 http://devfreebooks.org/nodejs/index.html
 http://devfreebooks.org/php/index.html
+http://devfreebooks.org/playframework/index.html
 http://devfreebooks.org/python/index.html
 http://devfreebooks.org/rails/index.html
 http://devfreebooks.org/robots.txt
