@@ -1,10 +1,11 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-07T14:23:04.652Z
+# rev 1 - 2015-04-07T14:48:00.600Z
 
 CACHE:
 http://devfreebooks.org/404.html
 http://devfreebooks.org/CNAME
 http://devfreebooks.org/about/index.html
+http://devfreebooks.org/android/index.html
 http://devfreebooks.org/angularjs/index.html
 http://devfreebooks.org/assets/css/application.css
 http://devfreebooks.org/assets/css/application.gz.css
@@ -16,7 +17,10 @@ http://devfreebooks.org/assets/font/opensans.eot
 http://devfreebooks.org/assets/font/opensans.svg
 http://devfreebooks.org/assets/font/opensans.ttf
 http://devfreebooks.org/assets/font/opensans.woff
+http://devfreebooks.org/assets/images/agile-android.jpg
 http://devfreebooks.org/assets/images/an-introduction-to-programming-in-go.jpg
+http://devfreebooks.org/assets/images/android-programming-succinctly.jpg
+http://devfreebooks.org/assets/images/android.jpg
 http://devfreebooks.org/assets/images/angular-basics.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
@@ -53,6 +57,7 @@ http://devfreebooks.org/assets/images/groovy.jpg
 http://devfreebooks.org/assets/images/haskell.jpg
 http://devfreebooks.org/assets/images/heroku-nodejs.jpg
 http://devfreebooks.org/assets/images/html5-shoot-em-up-in-an-afternoon.jpg
+http://devfreebooks.org/assets/images/http-succinctly.jpg
 http://devfreebooks.org/assets/images/http.jpg
 http://devfreebooks.org/assets/images/http2-explained.jpg
 http://devfreebooks.org/assets/images/human-javascript.jpg
