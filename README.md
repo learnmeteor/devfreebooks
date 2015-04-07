@@ -17,7 +17,6 @@ With this project in your hands, edit the `/public/[platform-folder]/_data.json`
   "about": "Platform description",
   "site": "url of the official platform site", 
   "image": "platform-logo.jpg", // Platform image is required
-  "category": "frameworks", // frameworks, languages or devtools
   "books": [
     {
       "title": "Book title",

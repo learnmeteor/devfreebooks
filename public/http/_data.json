@@ -18,6 +18,18 @@
         "publish": true,
         "published_at": "20150312",
         "url": "http://daniel.haxx.se/http2"
+      },
+      {
+        "title": "HTTP Succinctly",
+        "description": "With HTTP Succinctly, you’ll learn all about something you use on a daily basis.",
+        "author": "Scott Allen",
+        "pages": 55, 
+        "year": 2014, 
+        "image": "http-succinctly.jpg",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://www.syncfusion.com/resources/techportal/ebooks/http"
       }
     ]
   }
