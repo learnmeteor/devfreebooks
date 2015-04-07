@@ -25,6 +25,7 @@
                   "elixir", "php", "ruby", 
                   "django", "git", "groovy",
                   "scala", "vim", "famous",
-                  "http", "haskell", "rails"]
+                  "http", "haskell", "rails",
+                  "playframework"]
   }
 }

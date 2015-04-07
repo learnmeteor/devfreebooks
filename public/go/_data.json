@@ -55,6 +55,17 @@
         "publish": true,
         "published_at": "20150201",
         "url": "http://www.golang-book.com"
+      },
+      {
+        "title": "Practical Cryptography With Go",
+        "description": "This is an introduction to cryptography for developers. It assumes that you aren't looking for cryptographic theories, but practical ways to use cryptography in your projects. It covers the basic standard building blocks, and includes some sample code to help you get started.",
+        "author": "Kyle Isom",
+        "pages": 21, 
+        "year": 2014, 
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150407",
+        "url": "https://leanpub.com/gocrypto/read?a=2hxrOg_7DAAAx2pWvoaFpT"
       }
     ]
   }
