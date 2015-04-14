@@ -8,6 +8,17 @@
     "description": "Read the best free ebooks about Go language.",
     "books": [
       {
+        "title": "Go by Example",
+        "url": "https://gobyexample.com",
+        "description": "Go by Example is a hands-on introduction to Go using annotated example programs.",
+        "author": "Mark McGranaghan",
+        "pages": "64",
+        "year": "2013",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
         "title": "Build web application with Golang",
         "description": "This book is for those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go and it's for those of you who are working with C/C++, you will know how the web works.",
         "author": "Astaxie",

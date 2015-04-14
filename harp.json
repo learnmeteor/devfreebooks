@@ -26,6 +26,7 @@
                   "django", "git", "groovy",
                   "scala", "vim", "famous",
                   "http", "haskell", "rails",
-                  "playframework", "javascript", "android"]
+                  "playframework", "javascript", "android",
+                  "emberjs", "backbone"]
   }
 }

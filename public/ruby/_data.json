@@ -8,6 +8,17 @@
     "description": "Read the best free ebooks about Ruby language.",
     "books": [
       {
+        "title": "Sinatra Book",
+        "url": "http://sinatra-org-book.herokuapp.com/download",
+        "description": "This is a quick recipe book about how to create a Sinatra's project and deploy it into Heroku's platform.",
+        "author": "Sinatra",
+        "pages": "16",
+        "year": "2012",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
         "title": "Kestrels, Quirky Birds, and Hopeless Egocentricity",
         "description": "Raganwald's collected adventures in Combinatory Logic and Ruby Meta-Programming.",
         "author": "Reginald Braithwaite",

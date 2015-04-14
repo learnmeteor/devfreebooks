@@ -8,6 +8,17 @@
     "description": "Read the best free ebooks about Java language.",
     "books": [
       {
+        "title": "Learn Programming with Java",
+        "url": "https://www.learneroo.com/modules/11",
+        "description": "Online Tutorial and Challenges to learn the basics of Java programming.",
+        "author": "Learneroo",
+        "pages": "21",
+        "year": "2015",
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
         "title": "What's New in Java 8",
         "description": "This book will help you understand Java 8, including Project Lambda, the new Date-Time API, Streams, Nashorn, and more.",
         "author": "Adam L. Davis",

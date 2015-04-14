@@ -8,6 +8,17 @@
     "description": "Read some best Haskell's ebook here for free.",
     "books": [
       {
+        "title": "Haskell language",
+        "url": "http://en.wikibooks.org/wiki/Haskell",
+        "description": "In this book we aim to introduce you both to the Haskell language, from the very basics to advanced features, and to computer programming in general. We urge seasoned programmers to be especially patient with this process.",
+        "author": "Wikibooks",
+        "pages": 607,
+        "year": 2014,
+        "lang": "EN",
+        "publish": true,
+        "published_at": "20150414"
+      },
+      {
         "title": "Parallel and Concurrent Programming in Haskell",
         "description": "The main goal of the book is to get you programming competently with Parallel and Concurrent Haskell. However, as you probably know by now, learning about programming is not something you can do by reading a book alone.",
         "author": "Simon Marlow",
