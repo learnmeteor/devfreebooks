@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-04-08T23:06:41.159Z
+# rev 1 - 2015-04-14T21:42:19.922Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -25,6 +25,8 @@ http://devfreebooks.org/assets/images/angular-basics.jpg
 http://devfreebooks.org/assets/images/angularjs-in-60-minutes.jpg
 http://devfreebooks.org/assets/images/angularjs-succinctly.jpg
 http://devfreebooks.org/assets/images/angularjs.jpg
+http://devfreebooks.org/assets/images/backbone-tutorials.jpg
+http://devfreebooks.org/assets/images/backbone.jpg
 http://devfreebooks.org/assets/images/bitcoin.jpg
 http://devfreebooks.org/assets/images/build-web-application-with-golang.jpg
 http://devfreebooks.org/assets/images/building-games-for-firefox-os.jpg
@@ -32,6 +34,7 @@ http://devfreebooks.org/assets/images/building-web-apps-with-go.jpg
 http://devfreebooks.org/assets/images/coffeescript-ristretto.jpg
 http://devfreebooks.org/assets/images/creative-scala.jpg
 http://devfreebooks.org/assets/images/d3-tips-and-tricks.jpg
+http://devfreebooks.org/assets/images/developing-backbonejs-applications.jpg
 http://devfreebooks.org/assets/images/developing-games-with-ruby.jpg
 http://devfreebooks.org/assets/images/devfreebooks-128.png
 http://devfreebooks.org/assets/images/devfreebooks-facebook.jpg
@@ -42,6 +45,7 @@ http://devfreebooks.org/assets/images/django.jpg
 http://devfreebooks.org/assets/images/ecmascript-language-specification.jpg
 http://devfreebooks.org/assets/images/elixir.jpg
 http://devfreebooks.org/assets/images/eloquent-javascript.jpg
+http://devfreebooks.org/assets/images/emberjs.jpg
 http://devfreebooks.org/assets/images/explore-flask.jpg
 http://devfreebooks.org/assets/images/famous-mobile-apps.jpg
 http://devfreebooks.org/assets/images/famous.jpg
@@ -50,6 +54,7 @@ http://devfreebooks.org/assets/images/firefoxos.jpg
 http://devfreebooks.org/assets/images/getting-started-with-django.jpg
 http://devfreebooks.org/assets/images/git-for-everyone.jpg
 http://devfreebooks.org/assets/images/git-succinctly.jpg
+http://devfreebooks.org/assets/images/git-succintly.jpg
 http://devfreebooks.org/assets/images/git.jpg
 http://devfreebooks.org/assets/images/go.jpg
 http://devfreebooks.org/assets/images/gradle-goodness-notebook.jpg
@@ -109,6 +114,7 @@ http://devfreebooks.org/assets/images/quick-guide-for-firefox-os-app-development
 http://devfreebooks.org/assets/images/rails.jpg
 http://devfreebooks.org/assets/images/real-world-haskell.jpg
 http://devfreebooks.org/assets/images/recipes-with-angularjs.jpg
+http://devfreebooks.org/assets/images/ruby-on-rails-tutorial-3rd-edition.jpg
 http://devfreebooks.org/assets/images/ruby.jpg
 http://devfreebooks.org/assets/images/rubykin.jpg
 http://devfreebooks.org/assets/images/scala-by-example.jpg
@@ -129,9 +135,11 @@ http://devfreebooks.org/assets/js/application.gz.js
 http://devfreebooks.org/assets/js/application.js
 http://devfreebooks.org/assets/js/html5shiv.gz.js
 http://devfreebooks.org/assets/js/html5shiv.min.js
+http://devfreebooks.org/backbone/index.html
 http://devfreebooks.org/bitcoin/index.html
 http://devfreebooks.org/django/index.html
 http://devfreebooks.org/elixir/index.html
+http://devfreebooks.org/emberjs/index.html
 http://devfreebooks.org/famous/index.html
 http://devfreebooks.org/favicon.ico
 http://devfreebooks.org/firefoxos/index.html
