@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2015-05-23T21:54:32.478Z
+# rev 1 - 2015-06-25T22:45:37.123Z
 
 CACHE:
 http://devfreebooks.org/404.html
@@ -52,6 +52,7 @@ http://devfreebooks.org/assets/images/famous.jpg
 http://devfreebooks.org/assets/images/firefoxos-in-action.jpg
 http://devfreebooks.org/assets/images/firefoxos.jpg
 http://devfreebooks.org/assets/images/getting-started-with-django.jpg
+http://devfreebooks.org/assets/images/getting-started-with-meteor-deployment.jpg
 http://devfreebooks.org/assets/images/git-for-everyone.jpg
 http://devfreebooks.org/assets/images/git-succinctly.jpg
 http://devfreebooks.org/assets/images/git-succintly.jpg
@@ -129,6 +130,7 @@ http://devfreebooks.org/assets/images/web-development-using-elixir.jpg
 http://devfreebooks.org/assets/images/whats-new-in-java8.jpg
 http://devfreebooks.org/assets/images/your-first-app-nodejs.jpg
 http://devfreebooks.org/assets/images/your-first-meteor-application.jpg
+http://devfreebooks.org/assets/images/your-second-meteor-application.jpg
 http://devfreebooks.org/assets/js/aightjs.gz.js
 http://devfreebooks.org/assets/js/aightjs.min.js
 http://devfreebooks.org/assets/js/application.gz.js
