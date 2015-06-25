@@ -30,7 +30,7 @@
         "image": "getting-started-with-meteor-deployment.jpg",
         "publish": true,
         "published_at": "20150625"
-      }
+      },
       {
         "title": "Meteoric Projects",
         "url": "https://github.com/benstr/meteoric-projects",
