@@ -8,6 +8,18 @@
     "description": "Read the best free ebooks about Node.js.",
     "books": [
       {
+        "title": "Learn to Create Node.js Applications from Scratch",
+        "url": "https://scotch.io/books/build-your-first-node-js-app",
+        "description": "In this eBook, we explorer beginning Node concepts and build three applications: A very simple Node application, a Node server and HTML site and an app to connect with the Instagram API and display the popular photos.",
+        "author": "Chris Sevilleja",
+        "pages": 27,
+        "year": 2015,
+        "lang": "EN",
+        "image": "building-your-first-node-application.jpg",
+        "publish": true,
+        "published_at": "20150708"
+      },
+      {
         "title": "Module Patterns",
         "description": "The first short book of this series is a short introduction that sets the foundation of the next books to come. It shows what you can do with JavaScript and the Node module system to create and consume different types of modules: Singletons, Closure-based and prototype-based pseudo-classes, façades and others.",
         "author": "Pedro Teixeira",
