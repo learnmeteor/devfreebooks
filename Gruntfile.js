@@ -16,7 +16,6 @@ module.exports = function(grunt) {
       },
       main: {
         src: [
-          "public/assets/js/_async-img.js",
           "public/assets/js/_main.js"
         ],
         dest: "public/assets/js/application.js"
@@ -123,7 +122,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks("grunt-contrib-uglify");
   grunt.loadNpmTasks("grunt-contrib-concat");
   grunt.loadNpmTasks("grunt-contrib-clean");
-  
+
   grunt.registerTask("default",["clean", "env:dev", "execute", "concat", "stylus", "harp:dev"]);
   grunt.registerTask("serve", ["default"]);
   grunt.registerTask("deploy", ["clean", "env:prod", "execute", "concat", "stylus", "harp:prod", "uglify", "compress", "appcache", "gh-pages"]);

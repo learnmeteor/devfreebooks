@@ -14,8 +14,6 @@
       anchor.nextElementSibling.classList.add("thumbnail-featured");
     }
 
-    asyncImg();
-
   });
-  
+
 })();

@@ -5,3 +5,4 @@ node_modules
 public/rss.xml
 public/assets/js/application.js
 public/assets/css/application.css
+npm-debug.log
